@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a2e16"/>
+      <stop offset="50%" style="stop-color:#1a3a2a"/>
+      <stop offset="100%" style="stop-color:#2d6a4f"/>
+    </linearGradient>
+    <linearGradient id="mountainGrad1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d8a52"/>
+      <stop offset="100%" style="stop-color:#1a6b3a"/>
+    </linearGradient>
+    <linearGradient id="mountainGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5ee"/>
+      <stop offset="100%" style="stop-color:#c8e6d0"/>
+    </linearGradient>
+    <linearGradient id="sunGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e9a228"/>
+      <stop offset="100%" style="stop-color:#c88010"/>
+    </linearGradient>
+    <linearGradient id="textBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgba(0,0,0,0)"/>
+      <stop offset="100%" style="stop-color:rgba(0,0,0,0.5)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  <circle cx="1050" cy="80" r="300" fill="rgba(255,255,255,0.03)"/>
+  <circle cx="100" cy="500" r="200" fill="rgba(232,160,32,0.05)"/>
+  <circle cx="950" cy="150" r="60" fill="url(#sunGrad)" opacity="0.3"/>
+  <circle cx="950" cy="150" r="45" fill="url(#sunGrad)" opacity="0.5"/>
+  <circle cx="200" cy="100" r="3" fill="white" opacity="0.4"/>
+  <circle cx="400" cy="80" r="2" fill="white" opacity="0.3"/>
+  <circle cx="700" cy="120" r="3" fill="white" opacity="0.5"/>
+  <circle cx="850" cy="90" r="2" fill="white" opacity="0.3"/>
+  <circle cx="300" cy="150" r="2.5" fill="#e9a228" opacity="0.4"/>
+  <circle cx="550" cy="60" r="2" fill="#e9a228" opacity="0.3"/>
+  <polygon points="0,500 150,280 300,500" fill="#1a6b3a" opacity="0.4"/>
+  <polygon points="200,500 400,220 600,500" fill="#2d8a52" opacity="0.4"/>
+  <polygon points="700,500 900,250 1100,500" fill="#1a6b3a" opacity="0.35"/>
+  <polygon points="50,500 250,300 450,500" fill="url(#mountainGrad1)" opacity="0.6"/>
+  <polygon points="500,500 750,260 1000,500" fill="url(#mountainGrad2)" opacity="0.3"/>
+  <polygon points="800,500 1000,320 1200,500" fill="#2d8a52" opacity="0.5"/>
+  <polygon points="750,260 720,310 780,310" fill="white" opacity="0.3"/>
+  <polygon points="80,500 100,440 120,500" fill="#0a2e16" opacity="0.6"/>
+  <polygon points="85,460 100,400 115,460" fill="#0a2e16" opacity="0.6"/>
+  <polygon points="140,500 155,450 170,500" fill="#0a2e16" opacity="0.5"/>
+  <polygon points="1050,500 1070,430 1090,500" fill="#0a2e16" opacity="0.6"/>
+  <polygon points="1055,460 1070,390 1085,460" fill="#0a2e16" opacity="0.6"/>
+  <polygon points="1110,500 1125,450 1140,500" fill="#0a2e16" opacity="0.5"/>
+  <rect x="0" y="350" width="1200" height="280" fill="url(#textBg)"/>
+  <rect x="0" y="500" width="1200" height="130" fill="rgba(0,0,0,0.3)"/>
+  <rect x="460" y="170" width="60" height="60" rx="12" fill="rgba(232,160,32,0.9)"/>
+  <text x="490" y="216" font-size="36" text-anchor="middle" fill="white">🏔️</text>
+  <text x="600" y="290" font-family="Georgia, 'Playfair Display', serif" font-size="64" font-weight="900" fill="white" text-anchor="middle" letter-spacing="2">Batu Adventure</text>
+  <line x1="420" y1="310" x2="780" y2="310" stroke="#e9a228" stroke-width="3" opacity="0.8"/>
+  <text x="600" y="350" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="600" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="4">OUTBOUND &amp; WISATA BATU MALANG</text>
+  <text x="600" y="400" font-family="'Helvetica Neue', Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)" text-anchor="middle">Paket Team Building • Rafting Adventure • Wisata Bromo • Family Gathering</text>
+  <rect x="380" y="440" width="440" height="44" rx="22" fill="rgba(232,160,32,0.2)" stroke="rgba(232,160,32,0.4)" stroke-width="1.5"/>
+  <text x="600" y="468" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700" fill="#e9a228" text-anchor="middle" letter-spacing="1">⭐ 500+ EVENT SUKSES • FASILITATOR BERSERTIFIKASI • 50+ INSTRUKTUR</text>
+  <text x="600" y="600" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.4)" text-anchor="middle" letter-spacing="1">outbound-malang3.vercel.app</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a3a2a"/>
+      <stop offset="100%" style="stop-color:#2d6a4f"/>
+    </linearGradient>
+    <linearGradient id="mountainGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5ee"/>
+      <stop offset="100%" style="stop-color:#c8e6d0"/>
+    </linearGradient>
+    <linearGradient id="tentGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e9a228"/>
+      <stop offset="100%" style="stop-color:#c88010"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bgGrad)"/>
+  <polygon points="80,380 200,180 320,380" fill="#52b788" opacity="0.5"/>
+  <polygon points="160,380 310,140 460,380" fill="url(#mountainGrad)" opacity="0.9"/>
+  <polygon points="310,140 280,200 340,200" fill="white" opacity="0.8"/>
+  <polygon points="100,380 120,300 140,380" fill="#0a2e16" opacity="0.7"/>
+  <polygon points="105,340 120,270 135,340" fill="#0a2e16" opacity="0.7"/>
+  <polygon points="390,380 410,310 430,380" fill="#0a2e16" opacity="0.7"/>
+  <polygon points="395,350 410,280 425,350" fill="#0a2e16" opacity="0.7"/>
+  <polygon points="220,380 270,310 320,380" fill="url(#tentGrad)"/>
+  <line x1="270" y1="310" x2="270" y2="380" stroke="#c88010" stroke-width="3"/>
+  <circle cx="380" cy="180" r="4" fill="#e9a228" opacity="0.9"/>
+  <circle cx="150" cy="200" r="3" fill="#e9a228" opacity="0.7"/>
+  <circle cx="420" cy="230" r="3" fill="#e9a228" opacity="0.6"/>
+  <circle cx="200" cy="160" r="2.5" fill="white" opacity="0.5"/>
+  <circle cx="350" cy="210" r="2" fill="white" opacity="0.4"/>
+</svg>
