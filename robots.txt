@@ -1,3 +1,32 @@
 User-agent: *
 Allow: /
+
+# Sitemap
 Sitemap: https://paketoutbound-malang.netlify.app/sitemap.xml
+
+# Search Engine Bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI Crawlers (AEO/GEO Optimization)
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Disallow admin/private paths
+# Disallow: /admin/
+# Disallow: /private/
